@@ -1,0 +1,20 @@
+{
+  "name": "html-webpack-inject-jscss-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "siwangli",
+  "license": "ISC",
+  "description": "html-webpack-plugin的辅助功能，往html中插入自己的资源，如：脚本和样式",
+  "dependencies": {},
+  "devDependencies": {
+
+  },
+  "maintainers": [
+    {
+      "name": "siwangli",
+      "email": "withasi@163.com"
+    }
+  ]
+}
